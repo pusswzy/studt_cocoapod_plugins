@@ -1,0 +1,13 @@
+current directory: /Users/wangze/Desktop/main/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/wangze/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/wangze/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20211206-28834-bqpre0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/wangze/Desktop/main/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/wangze/Desktop/main/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/wangze/Desktop/main/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
