@@ -46,6 +46,7 @@ module Pod
         raise ArgumentError, 'Missing name' unless name
         raise ArgumentError, 'Missing plugin_name' unless plugin_name
         raise ArgumentError, 'Missing block' unless block
+
         @name = name
         @plugin_name = plugin_name
         @block = block

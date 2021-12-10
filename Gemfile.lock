@@ -21,6 +21,11 @@ PATH
       xcodeproj (>= 1.21.0, < 2.0)
 
 PATH
+  remote: cocoapods-lee_anything
+  specs:
+    cocoapods-lee_anything (0.0.1)
+
+PATH
   remote: cocoapods-project-hmap-main
   specs:
     cocoapods-project-hmap (0.0.5)
@@ -103,13 +108,14 @@ GEM
     zeitwerk (2.5.1)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-21
 
 DEPENDENCIES
   cocoapods!
+  cocoapods-lee_anything!
   cocoapods-project-hmap!
   debase
   ruby-debug-ide
 
 BUNDLED WITH
-   2.1.4
+   2.2.32
