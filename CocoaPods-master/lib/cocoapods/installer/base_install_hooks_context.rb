@@ -8,7 +8,7 @@ module Pod
       #
       attr_reader :sandbox
 
-      # @return [String] The path to the sandbox root (`Pods` directory).
+      # @return [String] The path to the sandbox root (`Pods` pod_targetsdirectory).
       #
       attr_reader :sandbox_root
 

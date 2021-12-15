@@ -66,3 +66,12 @@ gem install [GEMNAME]
 >
 > `pod plugins installed` 会列出来pod已安装的插件. 可以看做是上面的子集.
 
+
+
+
+
+
+
+### 奇思妙想
+
+✨ 如果ruby不支持自动化的话 那么使用gem也是可行的

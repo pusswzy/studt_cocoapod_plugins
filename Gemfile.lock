@@ -23,7 +23,7 @@ PATH
 PATH
   remote: cocoapods-lee_anything
   specs:
-    cocoapods-lee_anything (0.0.1)
+    cocoapods-lee_anything (0.0.2)
 
 PATH
   remote: cocoapods-project-hmap-main
